@@ -12,17 +12,9 @@
 - 🌱 Tecnologias : Administração de servidores · Redes de computadores · TOTVS RM · GLPI · Python · Banco de dados · MySQL · C# · HTML · Suporte para Help Desk · Fortinet · Zabbix · Microsoft Office · Suporte ao cliente 
 - 📫 Como me contatar: rafaelsds9@gmail.com
 - ⚡ Apaixonado por TI
-
-<div align="center">
-  <a href="https://github.com/RafaelSoaresST">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?
-    username=RafaelSoaresST&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSoaresST&layout=compact&langs_count=7&theme=red"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-plain.svg">   
 </div>
 
 
